@@ -67,7 +67,7 @@ management:
   endpoints:
     web:
       exposure:
-        include: "*"
+        include: refresh
   # 暴露的细节
   endpoint:
     health:
@@ -89,6 +89,6 @@ feign:
 
 # 自定义配置
 mysql: 
-  user: JakePrim
+  user: JakePrim-2
 person:
-  name: 楼的话
+  name: 楼的话-2

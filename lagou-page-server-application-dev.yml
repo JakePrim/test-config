@@ -86,3 +86,9 @@ feign:
       # 最小的压缩的下限
 #      min-request-size: 2048 # 默认值 不需要动
 #      mime-types: 默认值 不需要动
+
+# 自定义配置
+mysql: 
+  user: JakePrim
+person:
+  name: 楼的话

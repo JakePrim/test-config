@@ -89,6 +89,6 @@ feign:
 
 # 自定义配置
 mysql: 
-  user: JakePrim-2
+  user: JakePrim-3
 person:
-  name: 楼的话-2
+  name: 楼的话-3
